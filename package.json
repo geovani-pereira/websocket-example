@@ -1,0 +1,10 @@
+{
+  "name": "websocket-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.10.0"
+  }
+}
